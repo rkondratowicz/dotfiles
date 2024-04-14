@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+brew "exa"
+brew "fzf"
+brew "gh"
+brew "zoxide"
+cask "bruno"
+cask "zed"
