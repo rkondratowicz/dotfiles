@@ -1,0 +1,7 @@
+theme = rose-pine
+font-size = 16
+
+window-padding-x = 40
+window-padding-y = 10
+
+adjust-cell-height = 20%
