@@ -1,7 +1,11 @@
-theme = rose-pine
+theme = rose-pine-moon
 font-size = 16
 
 window-padding-x = 40
 window-padding-y = 10
 
 adjust-cell-height = 20%
+
+cursor-style = bar
+cursor-style-blink = false
+shell-integration-features = no-cursor
