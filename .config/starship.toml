@@ -8,5 +8,8 @@ success_symbol = "[➜](bold green)"
 [git_branch]
 symbol = " "
 
+[aws]
+disabled = true
+
 [gleam]
 symbol = "󰦥 "
