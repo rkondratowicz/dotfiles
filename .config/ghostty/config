@@ -1,4 +1,4 @@
-theme = rose-pine-moon
+config-file = ?auto/theme.ghostty
 font-size = 16
 
 window-padding-x = 40
