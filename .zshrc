@@ -1,3 +1,7 @@
+# ---- fnm (Fast Node Manager, a fast nvm alternative) -----
+# Auto-switches Node versions on cd based on .nvmrc / .node-version
+eval "$(fnm env --use-on-cd --shell zsh)"
+
 eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
 
